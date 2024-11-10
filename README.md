@@ -1,7 +1,3 @@
-Certainly! Here’s a more detailed and in-depth GitHub description that includes specific information on the mathematical modeling, transformation steps, and potential applications.
-
----
-
 # 3D Table Projection with Rotary Pinhole Camera Model
 
 This project simulates the projection of a 3D asymmetrical table onto a 2D plane using a rotary pinhole camera model with an off-centered aperture. It leverages a combination of intrinsic camera parameters, a thin lens model, and time-varying rotation to showcase the effects of rotary motion and aperture offsets on 2D projections of a 3D object. This setup is ideal for exploring camera modeling concepts, 3D transformations, and dynamic projection techniques.
@@ -74,6 +70,3 @@ This project serves as a foundation for learning and testing:
 - **3D Graphics and Rendering**: Understand how 3D objects are projected onto a 2D screen, an essential concept in computer graphics.
 - **Computer Vision and Robotics**: Gain insight into how rotary camera models and perspective transformations can be applied in object recognition, SLAM, and other vision-based applications.
 
---- 
-
-This extended description provides additional insights into each component, usage instructions, and potential applications, making it suitable for a GitHub repository aimed at an audience interested in graphics, camera modeling, or 3D-to-2D transformations.
