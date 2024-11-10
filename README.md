@@ -5,10 +5,12 @@ This project simulates the projection of a 3D asymmetrical table onto a 2D plane
 ## Key Features
 
 ### 1. 3D Table Model
-A simple 3D model of an asymmetrical table is created with a tabletop and four legs:
+A simple 3D model of a table is created with a tabletop and four legs:
 - **Top Surface**: Defined with customizable length, width, and height values, represented by a grid of points.
 - **Legs**: Four legs are positioned at the corners of the tabletop, with adjustable thickness and height, allowing for realistic proportions.
 - **Representation**: Points are stored in a 3D array format, making transformations straightforward.
+
+![3D Table Projection](/table.png)
 
 ### 2. Rotary Camera Model and Transformations
 The rotary camera model simulates a pinhole camera with an aperture that is offset from the origin, combining intrinsic parameters, translation, and a thin lens transformation.
